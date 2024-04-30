@@ -1,0 +1,12 @@
+# This is the official list of project authors for copyright purposes.
+# This file is distinct from the CONTRIBUTORS.txt file.
+# See the latter for an explanation.
+# 
+
+Arlette Boutros
+www.boutrosfonts.com
+
+
+HouseStyle Graphics Limited
+Dave Farey and Richard Dawson
+
