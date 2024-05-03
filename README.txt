@@ -1,7 +1,9 @@
 
 Zain
 
-Zain is a font family with 7 weights and support for Arabic and Latin. It supports also Urdu, Farsi and Kurdish. The latin parts supports all european latin languages as well as Indonesian and Tagalog.
+The objectives behind ZAIN range of typefaces was to create a unique modern range (8 weights: Extralight, Light, Light Italic, Regular, Regular Italic, Bold, ExtraBold and Black ) that support Arabic
+and Latin languages as well as Urdu, Farsi, Kurdish, Indonesian and Tagalog, suitable for headlines, sub-headings and body text, respecting Arabic calligraphy and cultural rules with maximum legibility, 
+also and more important is to be in harmony between the Latin and the Arabic and suitable for all communications needs being desktop or digital. 
 
 Source data are from Glyphs:
 
