@@ -1,5 +1,4 @@
-
-Zain
+# Zain
 
 The objectives behind ZAIN range of typefaces was to create a unique modern range (7 weights: Extralight, Light, Regular, Regular Italic, Bold, ExtraBold and Black ) that support Arabic
 and Latin languages as well as Urdu, Farsi, Kurdish, Indonesian and Tagalog, suitable for headlines, sub-headings and body text, respecting Arabic calligraphy and cultural rules with maximum legibility, 
@@ -27,3 +26,9 @@ UFO data are used as production file format.
 ./Source/2-Production /Zain_Light.ufo
 ./Source/2-Production /Zain_Regular.ufo
 
+
+# Build
+
+TTF fonts are currently built using `sh build.sh`, which generates fonts from the `.ufo.zip` sources and runs afterburner scripts over them to make them conform to Google Fonts specs as much as possible.
+
+Because Google Fonts generates webfonts server-side during the onboarding process, I've deleted the webfonts from this repository, but they could be added back again with another step in the build process.
