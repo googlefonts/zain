@@ -1,4 +1,4 @@
-Copyright © - Mobile Telecommunications Company KSCP (Zain), 2023 (www.zain.com)
+Copyright 2024 The Zain Project Authors (https://github.com/googlefonts/zain)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
