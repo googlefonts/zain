@@ -6,17 +6,18 @@ also and more important is to be in harmony between the Latin and the Arabic and
 
 Source data are from Glyphs:
 
-./Source/1-Drawings/Zain_Black.glyphs
-./Source/1-Drawings/Zain_Bold.glyphs
-./Source/1-Drawings/Zain_ExtraBold.glyphs
-./Source/1-Drawings/Zain_ExtraLight.glyphs
-./Source/1-Drawings/Zain_Italic.glyphs
-./Source/1-Drawings/Zain_Light.glyphs
-./Source/1-Drawings/Zain_Regular.glyphs
+./Source/1-Drawings/Zain-Black.glyphs
+./Source/1-Drawings/Zain-Bold.glyphs
+./Source/1-Drawings/Zain-ExtraBold.glyphs
+./Source/1-Drawings/Zain-ExtraLight.glyphs
+./Source/1-Drawings/Zain-Italic.glyphs
+./Source/1-Drawings/Zain-Light.glyphs
+./Source/1-Drawings/Zain-LightItalic.glyphs
+./Source/1-Drawings/Zain-Regular.glyphs
 
-Glyphs data are used as source file format. 
+Glyphs data are used as source file format for the outline design. 
 
-UFO data are used as production file format. 
+UFO data are used as production file format. The features including the anchorpoints for the marks and base characters are stored in a feature file which is part of the UFO file.
 
 ./Source/2-Production /Zain_Black.ufo
 ./Source/2-Production /Zain_Bold.ufo
@@ -24,6 +25,7 @@ UFO data are used as production file format.
 ./Source/2-Production /Zain_ExtraLight.ufo
 ./Source/2-Production /Zain_Italic.ufo
 ./Source/2-Production /Zain_Light.ufo
+./Source/2-Production /Zain_LightItalic.ufo
 ./Source/2-Production /Zain_Regular.ufo
 
 
